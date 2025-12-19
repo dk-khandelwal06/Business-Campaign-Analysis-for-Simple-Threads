@@ -1,69 +1,102 @@
-# 📦 The Quick Commerce Conundrum – Report
+# 🛍️ Business & Campaign Analysis – Simple Threads (Quarter 1 2025)
 
-An academic mini-project completed as part of the **Foundations of Statistics & Probability (FSP)** course under the B.S. in AI & Data Science program at **IIT Jodhpur**.
+An academic capstone project completed as part of the **Basics of Data Analytics (BDA)** course under the **B.S. in AI & Data Science** program at **IIT Jodhpur**.
 
-This project investigates the challenges and trends in India's growing **quick commerce** sector using a combination of statistical tools, hypothesis testing, visual analysis, and strategic reasoning.
+This project analyzes business performance, customer behavior, and discount campaign effectiveness for a simulated e-commerce brand (*Simple Threads*) using structured data analysis, visualization, and statistical reasoning.
 
 ---
 
 ## 🧠 Objective
 
-To analyze real-world data from the quick commerce industry and derive meaningful insights using statistical methods, followed by actionable strategic recommendations.
+To analyze multi-source business data and extract actionable insights related to:
+- Customer engagement and demographics  
+- Product sales performance  
+- Revenue trends  
+- Effectiveness of discount-based marketing campaigns  
+
+The goal is to translate data findings into **clear business insights and strategic recommendations**.
 
 ---
 
 ## 📁 Files Included
 
 | File | Description | Format | View |
-|------|-------------|--------|------|
-| `The_Quick_Commerce_Conundrum_Report` | Full academic report with charts, analysis, and conclusions | PDF | [📄 View Report](https://drive.google.com/file/d/1YYxyXE_H4Hdnl21lmaB8qrUtDi3aHQdO/view?usp=sharing) |
-| `The_Quick_Commerce_Conundrum_Presentation` | Slide deck used for presentation during evaluation | PPT | [🎥 View Slides](https://docs.google.com/presentation/d/1RwYtw3koLjPGAT9Q8L8WUckIuYDMTbACXLX72ABFNCo/edit?usp=sharing) |
+|----|------------|--------|------|
+| **Business_Campaign_Analysis_Report** | Full analytical report with charts, insights, and recommendations | PDF | 📄 [View Report](https://drive.google.com/file/d/1-bCcxSMICMtd-Z4GR3_RoLBGU5FDXUhS/view?usp=sharing) |
+| **Business_Campaign_Analysis_Presentation** | Executive slide deck summarizing analysis and strategy | PPT | 🎥 [View Slides](https://docs.google.com/presentation/d/186ck78s0cx0eAsmxCR59U2K2u7Fj44nZjygoRmlFxHw/edit?usp=sharing) |
 
 ---
 
 ## 🔍 Topics Covered
 
-- 📌 Summary & Problem Framing  
-- 📊 Phase 1: Project Planning  
-- 📈 Phase 2: Data Exploration  
-  - Heatmaps, Distributions, Boxplots  
-- 📉 Phase 3: Hypothesis Building  
-  - Histograms, Countplots  
-- 📍 Phase 4: Insight Generation  
-  - Bar charts, Bubble charts, Geo-mapping  
-- 📋 Phase 5: Strategic Recommendations
+📌 **Executive Summary & Business Context**
+
+📊 **Data Overview & Preparation**
+- Handling missing values  
+- Duplicate removal  
+- Data type formatting  
+- Data consistency validation  
+
+📈 **Phase 1: Customer Analysis**
+- Registered vs active customers  
+- Demographic and regional distribution  
+- Average customer spend  
+
+📉 **Phase 2: Sales Analysis**
+- Total revenue analysis  
+- Top-selling products  
+- Product category performance  
+
+📍 **Phase 3: Campaign Analysis**
+- Discount campaign participation  
+- Discount vs non-discount spending  
+- Discount tier effectiveness  
+
+📦 **Phase 4: Advanced Analysis**
+- Box plot analysis  
+- Outlier detection  
+- Correlation analysis  
+
+📋 **Key Findings & Strategic Recommendations**
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Techniques Used
 
-- **Google Sheets** – Raw data analysis  
-- **Google Colab** – Data cleaning & exploration  
-- **Orange Tool** – Visual workflows for statistical testing  
-- **ChatGPT, Gemini, Perplexity AI** – AI-assisted interpretation  
-- **GeoGebra & Flourish** – Custom charting and maps  
-- **Google Slides & Docs** – Documentation & presentation  
+- Data Cleaning & Preparation  
+- Exploratory Data Analysis (EDA)  
+- Statistical Analysis  
+- Data Visualization  
+- Business Insight & Storytelling  
+
+Tools:
+- Python / Excel  
+- Visualization & analytics tools  
+- AI-assisted analysis (ChatGPT, Gemini)  
+- Documentation & presentation tools  
 
 ---
 
 ## 🎯 Learnings
 
-- Applied foundational statistics to a real industry problem  
-- Developed visual storytelling skills using data  
-- Gained insights into consumer behavior and business models  
-- Practiced collaborative analysis & academic presentation
+- Applied data analytics concepts to a real-world business scenario  
+- Strengthened skills in exploratory and advanced analysis  
+- Learned to select appropriate visualizations based on data type  
+- Converted analytical results into business-focused insights  
+- Improved academic report writing and executive presentation skills  
 
 ---
 
 ## 🧾 Citation
 
-This project is an academic submission under IIT Jodhpur’s Applied AI & Data Science Program (Semester 1, 2025).
+This project is an academic submission under **IIT Jodhpur’s B.S. in AI & Data Science program** (Semester 1, 2025).  
 
 ---
 
 ## 📬 Connect with Me
 
 **Daksh Khandelwal**  
-1st Year BS in AI & Data Science @ IIT Jodhpur  
+1st Year – B.S. in AI & Data Science  
+📍 IIT Jodhpur  
 📧 dk.khandelwaliitj@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/daksh-khandelwal-b02748391/)

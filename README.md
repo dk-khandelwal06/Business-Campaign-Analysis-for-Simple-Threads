@@ -17,13 +17,13 @@ To analyze multi-source business data and extract actionable insights related to
 The goal is to translate data findings into **clear business insights and strategic recommendations**.
 
 ---
-
+https://drive.google.com/file/d/171CHtylBvPau6BixsjnKdNxyijEOGxbl/view?usp=drive_link
 ## 📁 Files Included
 
 | File | Description | Format | View |
 |----|------------|--------|------|
-| **Business_Campaign_Analysis_Report** | Full analytical report with charts, insights, and recommendations | PDF | 📄 [View Report](https://drive.google.com/file/d/1-bCcxSMICMtd-Z4GR3_RoLBGU5FDXUhS/view?usp=sharing) |
-| **Business_Campaign_Analysis_Presentation** | Executive slide deck summarizing analysis and strategy | PPT | 🎥 [View Slides](https://docs.google.com/presentation/d/186ck78s0cx0eAsmxCR59U2K2u7Fj44nZjygoRmlFxHw/edit?usp=sharing) |
+| **Business_Campaign_Analysis_Report** | Full analytical report with charts, insights, and recommendations | PDF | 📄 [View Report](https://drive.google.com/file/d/171CHtylBvPau6BixsjnKdNxyijEOGxbl/view?usp=drive_link) |
+| **Business_Campaign_Analysis_Presentation** | Executive slide deck summarizing analysis and strategy | PPT | 🎥 [View Slides](https://docs.google.com/presentation/d/1mfQAGMxkaSUBETkUh8UsETMMGHzwT3rr/edit?usp=drive_link&ouid=109189172265058093351&rtpof=true&sd=true) |
 
 ---
 

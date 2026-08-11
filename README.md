@@ -17,7 +17,7 @@ To analyze multi-source business data and extract actionable insights related to
 The goal is to translate data findings into **clear business insights and strategic recommendations**.
 
 ---
-https://drive.google.com/file/d/171CHtylBvPau6BixsjnKdNxyijEOGxbl/view?usp=drive_link
+
 ## 📁 Files Included
 
 | File | Description | Format | View |
